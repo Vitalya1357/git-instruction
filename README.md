@@ -362,4 +362,3 @@ git merge upstream/master
 ```bash
 git merge upstream/master
 ```
->>>>>>> global
