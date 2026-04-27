@@ -73,7 +73,7 @@ GitHub — это онлайн-сервис для хранения Git-репо
 ```text
 
 git-instruction
-
+```
 
 Локальный Git используется для работы с репозиторием на компьютере пользователя.
 
@@ -85,7 +85,7 @@ git-instruction
 
 ```bash
 git init
-
+```
 
 ### Проверка состояния репозитория
 
@@ -95,6 +95,7 @@ git init
 
 ```bash
 git status
+```
 
 ### Добавление файла в индекс
 
@@ -104,11 +105,13 @@ git status
 
 ```bash
 git add имя_файла
+```
 
 Пример:
 
 ```bash
 git add README.md
+```
 
 ### Добавление всех файлов
 
@@ -118,6 +121,7 @@ git add README.md
 
 ```bash
 git add .
+```
 
 ### Создание коммита
 
@@ -127,11 +131,13 @@ git add .
 
 ```bash
 git commit -m "Сообщение коммита"
+```
 
 Пример:
 
 ```bash
 git commit -m "Добавлена инструкция по Git"
+```
 
 ### Просмотр истории коммитов
 
@@ -141,11 +147,13 @@ git commit -m "Добавлена инструкция по Git"
 
 ```bash
 git log
+```
 
 Пример:
 
 ```bash
 git log --oneline
+```
 
 ### Создание ветки
 
@@ -155,11 +163,13 @@ git log --oneline
 
 ```bash
 git branch имя_ветки
+```
 
 Пример:
 
 ```bash
 git branch local
+```
 
 ### Переключение между ветками
 
@@ -169,11 +179,13 @@ git branch local
 
 ```bash
 git switch имя_ветки
+```
 
 Пример: 
 
 ```bash
 git switch local
+```
 
 ### Слияние веток
 
@@ -183,11 +195,13 @@ git switch local
 
 ```bash
 git merge имя_ветки
+```
 
 Пример: 
 
 ```bash
 git merge local
+```
 
 Сохрани файл.
 
@@ -196,6 +210,7 @@ git merge local
 ```bash
 git add README.md
 git commit -m "Добавлены команды локального Git"
+```
 
 
 
