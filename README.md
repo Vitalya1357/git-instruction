@@ -28,7 +28,7 @@ GitHub — это онлайн-сервис для хранения Git-репо
 
 ## Установка Git
 
-1. Перейдите на официальный сайт: [https://git-scm.com/download/win](#https://git-scm.com/download/win)
+1. Перейдите на официальный сайт: [https://git-scm.com/download/win](https://git-scm.com/download/win)
 
 2. Скачайте установщик
 
